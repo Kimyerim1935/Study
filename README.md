@@ -15,4 +15,4 @@
 
 ### Library & Framework
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=react-graphql-study&theme=cobalt)](https://github.com/Kimyerim1935/react-graphql-study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=CarrotMarket&theme=cobalt)](https://github.com/Kimyerim1935/CarrotMarket)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=react-messenger&theme=cobalt)](https://github.com/Kimyerim1935/react-messenger)
