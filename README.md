@@ -11,10 +11,6 @@
 
 ## individual
 
-### Notes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=studyNote_2023&theme=merko)](https://github.com/Kimyerim1935/studyNote_2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=&theme=merko)](https://github.com/Kimyerim1935/algorithm)
-
 ### Books
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=Books&theme=cobalt)](https://github.com/Kimyerim1935/Books)
 
@@ -27,3 +23,7 @@
 
 #### Back
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=java-linked-list&theme=dracula)](https://github.com/Kimyerim1935/java-linked-list)
+
+### Notes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=studyNote_2023&theme=merko)](https://github.com/Kimyerim1935/studyNote_2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=algorithm&theme=merko)](https://github.com/Kimyerim1935/algorithm))
