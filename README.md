@@ -1,6 +1,7 @@
 # Study
 
 ## 🐋session
+### 🪄 Frontend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=JavaScript_session&theme=cobalt)](https://github.com/Kimyerim1935/JavaScript_session)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=frontend-survival-week01&theme=dracula)](https://github.com/Kimyerim1935/frontend-survival-week01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=frontend-survival-week02&theme=dracula)](https://github.com/Kimyerim1935/frontend-survival-week02)</br>
