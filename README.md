@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=frontend-survival-week05&theme=dracula)](https://github.com/Kimyerim1935/frontend-survival-week05)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=frontend-survival-week06&theme=dracula)](https://github.com/Kimyerim1935/frontend-survival-week06)</br>
 
-## 🪄individual
+## ✏individual
 
 ### 🐥Books
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=Books&theme=cobalt)](https://github.com/Kimyerim1935/Books)
