@@ -27,4 +27,5 @@
 
 ### 🧸Notes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=studyNote_2023&theme=merko)](https://github.com/Kimyerim1935/studyNote_2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=Backend_megaptera&theme=merko)](https://github.com/Kimyerim1935/Backend_megaptera)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=algorithm&theme=merko)](https://github.com/Kimyerim1935/algorithm)
