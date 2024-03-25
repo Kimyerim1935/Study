@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=frontend-survival-week06&theme=dracula)](https://github.com/Kimyerim1935/frontend-survival-week06)</br>
 
 ### Backend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=backend-survival-week01&theme=dracula)](https://github.com/Kimyerim1935/backend-survival-week01)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=backend-survival-week01&theme=dracula)](https://github.com/Kimyerim1935/backend-survival-week01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kimyerim1935&repo=backend-survival-week02&theme=dracula)](https://github.com/Kimyerim1935/backend-survival-week02)</br>
 
 ## ✏individual
